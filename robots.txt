@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://lexsofahmi.github.io/belajar-octopress/sitemap.xml 

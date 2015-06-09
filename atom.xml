@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://lexsofahmi.github.io/belajar-octopress/atom.xml" rel="self"/>
+  <link href="http://lexsofahmi.github.io/belajar-octopress/"/>
+  <updated>2015-06-09T15:36:00+07:00</updated>
+  <id>http://lexsofahmi.github.io/belajar-octopress/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Belajar Java]]></title>
+    <link href="http://lexsofahmi.github.io/belajar-octopress/blog/2015/06/09/belajar-java/"/>
+    <updated>2015-06-09T15:32:46+07:00</updated>
+    <id>http://lexsofahmi.github.io/belajar-octopress/blog/2015/06/09/belajar-java</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
